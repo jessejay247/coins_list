@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "address": "",
+        "chainID": "1",
+        "decimals": 8,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "address": "",
+        "chainID": "",
+        "decimals": 8,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "address": "",
+        "chainID": "",
+        "decimals": 8,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+    },
+    {
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "address": "",
+        "chainID": "",
+        "decimals": 8,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "",
+        "chainID": "1",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+        "name": "Smart Chain",
+        "symbol": "BNB",
+        "address": "",
+        "chainID": "56",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "address": "",
+        "chainID": "",
+        "decimals": 9,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    {
+        "name": "Tron",
+        "symbol": "TRX",
+        "address": "",
+        "chainID": "",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+    },
+    {
+        "name": "Stellar",
+        "symbol": "XLM",
+        "address": "",
+        "chainID": "",
+        "decimals": 7,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+    },
+    {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "address": "",
+        "chainID": "137",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "address": "",
+        "chainID": "",
+        "decimals": 10,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    },
+     { 
+        "name": "Ripple",
+        "symbol": "XRP",
+        "address": "",    
+        "chainID": "",    
+        "decimals": 6,    
+        "logoURI": "https://cryptologos.cc/logos/xrp-xrp-logo.png"  
+    }, 
+    {    
+        "name": "Cardano",   
+        "symbol": "ADA",    
+        "address": "",    
+        "chainID": "",    
+        "decimals": 6,    
+        "logoURI": "https://cryptologos.cc/logos/cardano-ada-logo.png"  
+    }, 
+    {    
+        "name": "EOS",    
+        "symbol": "EOS",    
+        "address": "",    
+        "chainID": "",    
+        "decimals": 4,    
+        "logoURI": "https://cryptologos.cc/logos/eos-eos-logo.png"  
+    }, 
+    {    
+        "name": "Zcash",    
+        "symbol": "ZEC",    
+        "address": "",    
+        "chainID": "",    
+        "decimals": 8,    
+        "logoURI": "https://cryptologos.cc/logos/zcash-zec-logo.png"  
+    }, 
+    {    
+        "name": "Zilliqa",    
+        "symbol": "ZIL",    
+        "address": "",    
+        "chainID": "",    
+        "decimals": 12,    
+        "logoURI": "https://cryptologos.cc/logos/zilliqa-zil-logo.png"  
+    }
+]
+
