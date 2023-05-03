@@ -4,6 +4,7 @@
         "symbol": "BTC",
         "address": "",
         "chainID": "1",
+        "network": "bitcoin",
         "decimals": 8,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
     },
@@ -12,6 +13,7 @@
         "symbol": "LTC",
         "address": "",
         "chainID": "",
+        "network": "litecoin",
         "decimals": 8,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
     },
@@ -20,6 +22,7 @@
         "symbol": "DOGE",
         "address": "",
         "chainID": "",
+        "network": "dogecoin",
         "decimals": 8,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
     },
@@ -28,6 +31,7 @@
         "symbol": "BCH",
         "address": "",
         "chainID": "",
+        "network": "bitcoin-cash",
         "decimals": 8,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
     },
@@ -36,6 +40,7 @@
         "symbol": "ETH",
         "address": "",
         "chainID": "1",
+        "network": "ethereum",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     },
@@ -44,6 +49,7 @@
         "symbol": "BNB",
         "address": "",
         "chainID": "56",
+        "network": "smart-chain",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
     },
@@ -52,6 +58,7 @@
         "symbol": "SOL",
         "address": "",
         "chainID": "",
+        "network": "solana",
         "decimals": 9,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
     },
@@ -60,6 +67,7 @@
         "symbol": "TRX",
         "address": "",
         "chainID": "",
+        "network": "tron",
         "decimals": 6,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
     },
@@ -68,6 +76,7 @@
         "symbol": "XLM",
         "address": "",
         "chainID": "",
+        "network": "stellar",
         "decimals": 7,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
     },
@@ -76,6 +85,7 @@
         "symbol": "MATIC",
         "address": "",
         "chainID": "137",
+        "network": "polygon",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
     },
@@ -84,6 +94,7 @@
         "symbol": "DOT",
         "address": "",
         "chainID": "",
+        "network": "polkadot",
         "decimals": 10,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
     },
@@ -91,7 +102,8 @@
         "name": "Ripple",
         "symbol": "XRP",
         "address": "",    
-        "chainID": "",    
+        "chainID": "",   
+        "network": "ripple", 
         "decimals": 6,    
         "logoURI": "https://cryptologos.cc/logos/xrp-xrp-logo.png"  
     }, 
@@ -99,7 +111,8 @@
         "name": "Cardano",   
         "symbol": "ADA",    
         "address": "",    
-        "chainID": "",    
+        "chainID": "",   
+        "network": "cardano", 
         "decimals": 6,    
         "logoURI": "https://cryptologos.cc/logos/cardano-ada-logo.png"  
     }, 
@@ -108,6 +121,7 @@
         "symbol": "EOS",    
         "address": "",    
         "chainID": "",    
+        "network": "eos",
         "decimals": 4,    
         "logoURI": "https://cryptologos.cc/logos/eos-eos-logo.png"  
     }, 
@@ -116,6 +130,7 @@
         "symbol": "ZEC",    
         "address": "",    
         "chainID": "",    
+        "network": "zcash",
         "decimals": 8,    
         "logoURI": "https://cryptologos.cc/logos/zcash-zec-logo.png"  
     }, 
@@ -124,6 +139,7 @@
         "symbol": "ZIL",    
         "address": "",    
         "chainID": "",    
+        "network": "zilliqa",
         "decimals": 12,    
         "logoURI": "https://cryptologos.cc/logos/zilliqa-zil-logo.png"  
     }
