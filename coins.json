@@ -126,6 +126,16 @@
         "network": "stellar",
         "decimals": 7,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+    },
+
+    {
+        "name": "Vechain",
+        "symbol": "VET",
+        "address": "",
+        "chainID": "",
+        "network": "vechain",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
     }
 
 ]
