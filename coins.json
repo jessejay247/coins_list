@@ -27,15 +27,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
     },
     {
-        "name": "Bitcoin Cash",
-        "symbol": "BCH",
-        "address": "",
-        "chainID": "",
-        "network": "bitcoin-cash",
-        "decimals": 8,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
-    },
-    {
         "name": "Ethereum",
         "symbol": "ETH",
         "address": "",
@@ -43,6 +34,16 @@
         "network": "ethereum",
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+
+    {
+        "name": "Tether ERC20",
+        "symbol": "USDT",
+        "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "chainID": "1",
+        "network": "ethereum",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
     },
     {
         "name": "Smart Chain",
@@ -54,13 +55,13 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
     },
     {
-        "name": "Solana",
-        "symbol": "SOL",
-        "address": "",
-        "chainID": "",
-        "network": "solana",
-        "decimals": 9,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+        "name": "Tether BEP20",
+        "symbol": "USDT",
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "chainID": "56",
+        "network": "smart-chain",
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
     },
     {
         "name": "Tron",
@@ -71,14 +72,15 @@
         "decimals": 6,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
     },
+
     {
-        "name": "Stellar",
-        "symbol": "XLM",
-        "address": "",
+        "name": "Tether TRC20",
+        "symbol": "USDT",
+        "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
         "chainID": "",
-        "network": "stellar",
-        "decimals": 7,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+        "network": "tron",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
     },
     {
         "name": "Polygon",
@@ -90,23 +92,14 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
     },
     {
-        "name": "Polkadot",
-        "symbol": "DOT",
+        "name": "Solana",
+        "symbol": "SOL",
         "address": "",
         "chainID": "",
-        "network": "polkadot",
-        "decimals": 10,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+        "network": "solana",
+        "decimals": 9,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
     },
-     { 
-        "name": "Ripple",
-        "symbol": "XRP",
-        "address": "",    
-        "chainID": "",   
-        "network": "ripple", 
-        "decimals": 6,    
-        "logoURI": "https://cryptologos.cc/logos/xrp-xrp-logo.png"  
-    }, 
     {    
         "name": "Cardano",   
         "symbol": "ADA",    
@@ -115,33 +108,25 @@
         "network": "cardano", 
         "decimals": 6,    
         "logoURI": "https://cryptologos.cc/logos/cardano-ada-logo.png"  
-    }, 
-    {    
-        "name": "EOS",    
-        "symbol": "EOS",    
+    },
+    { 
+        "name": "Ripple",
+        "symbol": "XRP",
         "address": "",    
-        "chainID": "",    
-        "network": "eos",
-        "decimals": 4,    
-        "logoURI": "https://cryptologos.cc/logos/eos-eos-logo.png"  
+        "chainID": "",   
+        "network": "ripple", 
+        "decimals": 6,    
+        "logoURI": "https://cryptologos.cc/logos/xrp-xrp-logo.png"  
     }, 
-    {    
-        "name": "Zcash",    
-        "symbol": "ZEC",    
-        "address": "",    
-        "chainID": "",    
-        "network": "zcash",
-        "decimals": 8,    
-        "logoURI": "https://cryptologos.cc/logos/zcash-zec-logo.png"  
-    }, 
-    {    
-        "name": "Zilliqa",    
-        "symbol": "ZIL",    
-        "address": "",    
-        "chainID": "",    
-        "network": "zilliqa",
-        "decimals": 12,    
-        "logoURI": "https://cryptologos.cc/logos/zilliqa-zil-logo.png"  
+    {
+        "name": "Stellar",
+        "symbol": "XLM",
+        "address": "",
+        "chainID": "",
+        "network": "stellar",
+        "decimals": 7,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
     }
+
 ]
 
