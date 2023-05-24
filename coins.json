@@ -100,15 +100,6 @@
         "decimals": 9,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
     },
-    {    
-        "name": "Cardano",   
-        "symbol": "ADA",    
-        "address": "cardano",    
-        "chainID": 0,   
-        "network": "cardano", 
-        "decimals": 6,    
-        "logoURI": "https://cryptologos.cc/logos/cardano-ada-logo.png"  
-    },
     { 
         "name": "Ripple",
         "symbol": "XRP",
