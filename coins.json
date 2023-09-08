@@ -35,7 +35,15 @@
         "decimals": 18,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     },
-
+    {
+        "name": "ESSEX",
+        "symbol": "SEX",
+        "address": "0x8a34EA031ba21784dc5CC38175B12F33aE91D852",
+        "chainID": 1,
+        "network": "ethereum",
+        "decimals": 3,
+        "logoURI": "https://raw.githubusercontent.com/jessejay247/coins_list/main/essex.jpg"
+    },
     {
         "name": "Tether ERC20",
         "symbol": "USDT",
